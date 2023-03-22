@@ -1,1 +1,0 @@
-# The-Rise-of-DevOps-Key-Concepts-and-Practices-for-Modern-Software-Development.
